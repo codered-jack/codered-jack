@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-codered-jack.vercel.app/](https://portfolio-codered-jack.vercel.app/)
 
-- 📝 I regularly write articles on [https://workfolio.vercel.app/blogs/prototype](https://workfolio.vercel.app/blogs/prototype)
+- 📝 Some of my top articals are [https://workfolio.vercel.app/blogs/prototype](https://workfolio.vercel.app/blogs/prototype)
 
 - 💬 Ask me about **React , Next , Tailwind , JavaScript**
 
