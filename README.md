@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently working on **JavaScript**.
 
-- 🌱 Apart from that I keep learning different technologies Golang and Remix are among the latest of them. View my blogs at **https://codeblog-hazel.vercel.app/**.
+- 🌱 Apart from that I keep learning different technologies Golang and Remix are among the latest of them.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-codered-jack.vercel.app/](https://portfolio-codered-jack.vercel.app/)
 
-- 📝 Some of my top articles are [https://workfolio.vercel.app/blogs/prototype](https://workfolio.vercel.app/blogs/prototype)
+- 📝 Some of my top articles are [https://codeblog-hazel.vercel.app/](https://codeblog-hazel.vercel.app/)
 
 - 💬 Ask me about **React , Next , Tailwind , JavaScript**
 
