@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codered-jack&label=Profile%20views&color=0e75b6&style=flat" alt="codered-jack" /> </p>
 
-- 🌱 I’m currently learning **Microservices with Node JS and React**
+- 🌱 I’m currently working on **JavaScript**.
+
+- 🌱 Apart from that I keep learning different technologies Golang and Remix are among the latest of them. View my blogs at **https://codeblog-hazel.vercel.app/**.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-codered-jack.vercel.app/](https://portfolio-codered-jack.vercel.app/)
 
