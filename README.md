@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A Fullstack developer flexed to frontend technologies.</h3>
-
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codered-jack&label=Profile%20views&color=0e75b6&style=flat" alt="codered-jack" /> </p>
 
 - 🌱 I’m currently working on **JavaScript**.
