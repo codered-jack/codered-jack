@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **JavaScript**.
 
-- 🌱 Apart from that I keep learning different technologies Golang and Remix are among the latest of them.
+- 🌱 Apart from that I keep learning different technologies Golang and Python are among the latest of them.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-codered-jack.vercel.app/](https://portfolio-codered-jack.vercel.app/)
 
